@@ -43,6 +43,12 @@
     )
 
     (stroke (width 0.01) (type solid)) (fill solid) (layer "B.Cu") (tstamp 7909bf9f-548f-40d0-98aa-81a509931181))
+<<<<<<< HEAD
+  (fp_line (start 0 1.35) (end 0.25 1.35)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp ac4172e7-a219-4910-939c-a657f9740972))
+  (fp_rect (start 0 0) (end 49.6 8)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 19023ba3-377c-4ec5-abd1-2e4e89a641cc))
+=======
   (fp_line (start -0.5 -0.25) (end -0.5 8.5)
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 3b162046-4cee-46c5-a9c6-a2358f2eb46e))
   (fp_line (start -0.5 -0.25) (end 50.25 -0.25)
@@ -61,6 +67,7 @@
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp dbaae22f-9b6c-4ede-bd21-ba927afc8374))
   (fp_line (start 50.25 8.5) (end 49.5 8.5)
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 51c2f56d-f892-46f3-8646-db0f634c282d))
+>>>>>>> d4a8023c71ffc855b81737656c580ef00649b398
   (fp_line (start 0 0) (end 0 1.35)
     (stroke (width 0.1) (type default)) (layer "Dwgs.User") (tstamp 5805edd2-408a-4077-95c2-4383e74e197d))
   (fp_line (start 0 0) (end 1.5 0)
@@ -81,20 +88,30 @@
     (stroke (width 0.1) (type default)) (layer "Dwgs.User") (tstamp e6cdf8b0-e6fb-4d3e-ae9f-e0c76eba411f))
   (fp_line (start 29.45 0) (end 29.45 9)
     (stroke (width 0.1) (type default)) (layer "Dwgs.User") (tstamp c03431d4-9ee4-4a36-b9d8-fcadbf9ce9d0))
+<<<<<<< HEAD
+=======
   (fp_rect (start -0.75 -0.5) (end 50.5 10.25)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 038f80d0-e11e-482e-b899-e0e057dc2e63))
   (fp_rect (start 0 0) (end 49.6 8)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 19023ba3-377c-4ec5-abd1-2e4e89a641cc))
+>>>>>>> d4a8023c71ffc855b81737656c580ef00649b398
   (pad "!" smd rect (at 1.3 4) (size 2.1 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp fa86748a-22b7-480e-be44-ba9d86f377ff))
   (pad "1" smd rect (at 15.9 6.16) (size 3.1 3.18) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp ba0f9111-87e2-4f87-b4e0-d6416a4f0200))
   (pad "1" smd rect (at 16.05 8.7125) (size 1 2.125) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp ec3b869d-64c9-4558-8e82-2ca2aa9396f7))
+<<<<<<< HEAD
+  (pad "1" smd rect (at 20.05 8.7) (size 2.03 2.125) (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp f4783176-fa5b-4388-ac99-b252e30b4e8a))
+  (pad "2" smd rect (at 19.7 6.15) (size 2.73 3.18) (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp 7a4f4522-a8fe-4c9b-b90c-6a549854aa56))
+=======
   (pad "2" smd rect (at 19.7 6.15) (size 2.73 3.18) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 7a4f4522-a8fe-4c9b-b90c-6a549854aa56))
   (pad "2" smd rect (at 20.05 8.7) (size 2.03 2.125) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp f4783176-fa5b-4388-ac99-b252e30b4e8a))
+>>>>>>> d4a8023c71ffc855b81737656c580ef00649b398
   (pad "4" thru_hole circle (at 37.4 8.75) (size 0.7 0.7) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp bcb28cdd-2a13-4bf4-a9a9-0ce27492f713))
   (pad "4" smd rect (at 43.075 7.875 180) (size 12.55 3.75) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 7071b878-85e6-401c-9465-7b4a8aa2d310))
@@ -218,9 +235,12 @@
       )
     )
   )
+<<<<<<< HEAD
+=======
   (model "C:/Users/user/Documents/kicad6/KICAD 6.0.0/K6_ ON COMP REPOSITORY/MACHADA-kicad-library/MACHADA_3D_MODELS/P822601--3DModel-STEP-56544.STEP"
     (offset (xyz 24.7 -4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+>>>>>>> d4a8023c71ffc855b81737656c580ef00649b398
 )
