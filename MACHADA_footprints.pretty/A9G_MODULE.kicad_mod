@@ -1,7 +1,7 @@
 (footprint "A9G_MODULE" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 2.2 -2.3 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -1.1 -1.1 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f6b30696-52cc-45d3-ae08-e6d2888c283e)
   )
