@@ -1,5 +1,6 @@
 (footprint "CY43-22UH" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "22uH 600mA")
   (attr smd)
   (fp_text reference "REF**" (at -0.175 -6.2 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
