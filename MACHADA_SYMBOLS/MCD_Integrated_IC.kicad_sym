@@ -172,7 +172,7 @@
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at -48.26 -45.72 90)
+    (property "Value" "BQ78PL116" (at -48.26 -45.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DFN_QFN:VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm" (at -48.26 -45.72 90)

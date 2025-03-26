@@ -175,7 +175,7 @@
     (property "Value" "" (at -48.26 -45.72 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at -48.26 -45.72 90)
+    (property "Footprint" "Package_DFN_QFN:VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm" (at -48.26 -45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -48.26 -45.72 90)

@@ -228,7 +228,7 @@
 	)
 	(fp_line
 		(start -0.7 -3.2)
-		(end 7.2 -3.2)
+		(end 8.3 -3.2)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -267,8 +267,8 @@
 		(uuid "8c3cde34-5c1a-4f2e-aa77-12e6243518cc")
 	)
 	(fp_line
-		(start 7.2 -3.2)
-		(end 7.2 -2.5)
+		(start 8.3 -3.2)
+		(end 8.3 -2.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -277,8 +277,8 @@
 		(uuid "2fc5f3d6-5d2f-4a2d-8fa8-4b1507738434")
 	)
 	(fp_line
-		(start 7.2 -2.5)
-		(end 9.9 -2.5)
+		(start 8.3 -2.5)
+		(end 11 -2.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -287,8 +287,8 @@
 		(uuid "128d2cd7-9aa3-4a76-848d-dbdf4ff45982")
 	)
 	(fp_line
-		(start 7.2 0.3)
-		(end 7.2 1)
+		(start 8.3 0.3)
+		(end 8.3 1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -297,7 +297,7 @@
 		(uuid "df73d783-6d97-4244-a286-dd53bbd912fc")
 	)
 	(fp_line
-		(start 7.2 1)
+		(start 8.3 1)
 		(end -0.7 1)
 		(stroke
 			(width 0.05)
@@ -307,8 +307,8 @@
 		(uuid "f0604821-faab-4873-b001-897ad8abf4f9")
 	)
 	(fp_line
-		(start 9.9 -2.5)
-		(end 9.9 0.3)
+		(start 11 -2.5)
+		(end 11 0.3)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -317,8 +317,8 @@
 		(uuid "fa952b54-7a5e-4c2d-8eb4-45de3a0cfbeb")
 	)
 	(fp_line
-		(start 9.9 0.3)
-		(end 7.2 0.3)
+		(start 11 0.3)
+		(end 8.3 0.3)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -458,9 +458,9 @@
 		(uuid "5436ff43-1277-4cb8-ab51-61bcba64b481")
 	)
 	(embedded_fonts no)
-	(model "${MCD_KICAD_3D}/FPC_FFC2A32-10-G--3DModel-STEP-56544.STEP"
+	(model "${MCD_KICAD_3D}/FFC2A32-16-G--3DModel-STEP-56544 (1).STEP"
 		(offset
-			(xyz 2.25 1.1 0)
+			(xyz 3.75 1.1 0)
 		)
 		(scale
 			(xyz 1 1 1)
